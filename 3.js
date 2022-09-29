@@ -3,7 +3,7 @@
 #本地重写
 
 #重写路径
-https:\/\/cat\-match\.easygame2021\.com\/sheep\/v1\/game\/personal\_info\? script-response-body 3.js
+https:\/\/cat\-match\.easygame2021\.com\/sheep\/v1\/game\/personal\_info\? script-response-body https://raw.githubusercontent.com/qwersr222/-x/main/3.js
 
 [MITM]
 #域名
